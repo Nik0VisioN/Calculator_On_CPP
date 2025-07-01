@@ -7,7 +7,7 @@ int main()
 	double a, b, result;
 	char arifmetic;
 
-	cout << fixed << setprecision(5); 
+	cout << fixed << setprecision(4); 
 
 	while (1)
 	{
